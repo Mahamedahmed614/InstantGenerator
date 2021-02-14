@@ -5,4 +5,4 @@ Deployment link
 https://github.com/Mahamedahmed614/InstantGenerator
 ![alt text](./Asset/screenshot.png)
 
-screenshot
+
